@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.item p{
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: bisque;
+    border: 1px black solid;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 2rem;
+}
+.gridPadre{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 200px 200px 200px;
+    gap: 30px;
+}

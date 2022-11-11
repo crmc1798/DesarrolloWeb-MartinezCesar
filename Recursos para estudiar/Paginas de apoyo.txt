@@ -1,0 +1,14 @@
+Pagina para generar paleta de colores
+https://coolors.co/c1a5a9-f08cae-9a4c95-4d2d52-1d1a31
+
+pagina para hacer sketch de html
+https://balsamiq.cloud/s5bjw3p/pikposv/rE55E
+
+pagina de pruebas css
+https://www.w3schools.com/cssref/playdemo.asp?filename=playcss_align-items&preval=stretch
+
+pagina de animaciones 
+http://michalsnik.github.io/aos/
+
+pagina para hacer ejemplos web
+https://codepen.io/pen/

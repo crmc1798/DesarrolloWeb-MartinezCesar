@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.item{
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: bisque;
+    border: 1px black solid;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 2rem;
+}
+.contenedor{
+    background-color: aqua;
+    display: flex;
+    flex-flow: row wrap;
+    width: 700px;
+    height: 700px;
+    align-content: space-around;
+    justify-content: center;
+}

@@ -1,0 +1,23 @@
+$ColorBHover:#4d4c4c;
+$ColorPHover:#ffffff;
+
+.card:hover{
+    transform: scale(1.1); 
+    transition-duration: 500ms;
+}
+
+.nav-link{
+    p:hover{
+        background-color: $ColorBHover; 
+        color: $ColorPHover;
+        padding: 3px;
+        @extend .card;   
+    }
+}
+
+.btn:hover{
+    background-color: $ColorBHover; 
+    color: $ColorPHover;
+    @extend .card; 
+
+}

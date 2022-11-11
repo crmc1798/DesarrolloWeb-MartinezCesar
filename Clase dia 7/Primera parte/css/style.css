@@ -1,0 +1,19 @@
+/* Estiloa generales */
+    /* Responsive desing */
+        /* Desktop */
+            @media (min-width: 992px){
+                /* Estilos*/
+            }
+        /* Tablet */
+            @media (min-width: 577px) and (max-width: 991px){
+                /* Estilos*/
+            }
+        /* Mobile */
+            @media (max-width: 576px){
+                /* Estilos*/
+            }
+
+    /* Mobile first */
+        /* Mobile */
+        /* Tablet*/
+        /* Desktop */

@@ -1,0 +1,19 @@
+@mixin medida($ancho, $alto) {
+    height: $alto;
+    width: $ancho;
+ }
+ 
+.ContenedorCards{
+    @include medida(80%, auto);
+ }
+
+ .ContenedorTarjetaF{
+    @include medida(70%, auto);
+ }
+
+ .ContenedorTarjetaA{
+    @include medida(70%, auto);
+ }
+
+
+ 
